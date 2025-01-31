@@ -1,5 +1,3 @@
-# MedicarePlus_Back
-
 # Healthcare Appointment Scheduling System
 
 ## Overview
